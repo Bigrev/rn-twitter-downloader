@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+npm-debug.log
+yarn-error.log
+buck-out/
+\.buckd/
+*.keystore
